@@ -1,0 +1,1 @@
+print ("pengalaman saya saat praktikum metode komputasi : praktikum metode komputasi sangat menyenangkan. kita bisa belajar tentang hal yang tidak kita pelajari sebelumnya, dasar - dasar penggunaan git, github, vscode, dan phyton. jujur, itu sangat menyenangkan bagi saya")
